@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1677-matrix-diagonal-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Matrix
 |  |
@@ -67,4 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
