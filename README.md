@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0899-binary-gap](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0899-binary-gap) |
 ## Sliding Window
 |  |
 | ------- |
