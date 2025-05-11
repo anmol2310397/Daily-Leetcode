@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
+| [1293-three-consecutive-odds](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1677-matrix-diagonal-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
