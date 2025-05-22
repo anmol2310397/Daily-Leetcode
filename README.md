@@ -102,4 +102,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
