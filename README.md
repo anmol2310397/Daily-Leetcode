@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0342-power-of-four](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0342-power-of-four) |
 | [0899-binary-gap](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0899-binary-gap) |
 ## Sliding Window
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0342-power-of-four) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2238-a-number-after-a-double-reversal](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Counting
@@ -137,4 +139,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
