@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0206-reverse-linked-list) |
