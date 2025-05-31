@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1078-remove-outermost-parentheses](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
+| [1078-remove-outermost-parentheses](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
