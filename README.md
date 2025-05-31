@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0342-power-of-four](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0342-power-of-four) |
 | [0899-binary-gap](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0899-binary-gap) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Sliding Window
 |  |
 | ------- |
