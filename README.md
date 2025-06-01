@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0822-unique-morse-code-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0909-stone-game](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0909-stone-game) |
 | [1241-decompress-run-length-encoded-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0822-unique-morse-code-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0822-unique-morse-code-words) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0822-unique-morse-code-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1899-count-items-matching-a-rule](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1899-count-items-matching-a-rule) |
