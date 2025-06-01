@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0342-power-of-four) |
 | [0909-stone-game](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0909-stone-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2238-a-number-after-a-double-reversal](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3199-distribute-candies-among-children-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3199-distribute-candies-among-children-i) |
