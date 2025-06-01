@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0342-power-of-four) |
 | [0909-stone-game](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0909-stone-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
