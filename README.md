@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1899-count-items-matching-a-rule](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2502-sort-the-people](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2502-sort-the-people) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3709-find-special-substring-of-length-k](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3709-find-special-substring-of-length-k) |
