@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1899-count-items-matching-a-rule](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2502-sort-the-people) |
 ## Enumeration
