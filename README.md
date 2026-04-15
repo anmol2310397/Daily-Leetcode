@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0822-unique-morse-code-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0909-stone-game](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0909-stone-game) |
 | [1241-decompress-run-length-encoded-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0822-unique-morse-code-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0822-unique-morse-code-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -220,5 +222,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
