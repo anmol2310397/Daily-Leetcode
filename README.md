@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3199-distribute-candies-among-children-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3371-harshad-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3371-harshad-number) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Counting
 |  |
 | ------- |
