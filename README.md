@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2540-minimum-common-value](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2502-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
