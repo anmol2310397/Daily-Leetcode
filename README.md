@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2540-minimum-common-value) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Counting
 |  |
 | ------- |
