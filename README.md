@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3206-find-common-elements-between-two-arrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3921-score-validator](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3709-find-special-substring-of-length-k](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3709-find-special-substring-of-length-k) |
+| [3921-score-validator](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Bit Manipulation
 |  |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3921-score-validator](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
