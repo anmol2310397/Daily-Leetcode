@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3709-find-special-substring-of-length-k](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3709-find-special-substring-of-length-k) |
