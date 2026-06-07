@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## String Matching
 |  |
 | ------- |
