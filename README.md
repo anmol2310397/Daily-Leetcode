@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0118-pascals-triangle) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0031-next-permutation) |
 | [0234-palindrome-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0392-is-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
