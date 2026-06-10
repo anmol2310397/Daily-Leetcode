@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0342-power-of-four) |
 | [0899-binary-gap](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0899-binary-gap) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0392-is-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
