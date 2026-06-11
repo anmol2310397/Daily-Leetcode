@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -307,4 +311,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
