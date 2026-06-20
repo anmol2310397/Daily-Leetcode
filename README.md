@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0118-pascals-triangle) |
@@ -217,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0141-linked-list-cycle) |
