@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0822-unique-morse-code-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0822-unique-morse-code-words) |
+| [1189-maximum-number-of-balloons](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0796-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1899-count-items-matching-a-rule](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2486-most-frequent-even-element) |
