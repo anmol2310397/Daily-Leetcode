@@ -1,23 +1,15 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        HashMap<Character,Integer> map=new HashMap<>();
-        Map<Character, Integer> map2 = new HashMap<>(){{
-            put('b', 1); put('a', 1);
-            put('l', 2); put('o', 2);
-            put('n', 1);
-        }};
-        for(char ch:text.toCharArray()){
-            if(map.containsKey(ch))
-                map.put(ch,map.get(ch)+1);
-            else
-                map.put(ch,1);
-        }
-          int count = text.length();
+        int[] count = new int[26];
 
-        for (char c : map2.keySet()) {
-            count = Math.min(count, map.getOrDefault(c, 0) / map2.get(c));
+        for (char c : text.toCharArray()) {
+            count[c - 'a']++;
         }
 
-        return count;
+        return Math.min(
+            Math.min(count['b' - 'a'], count['a' - 'a']),
+            Math.min(count['l' - 'a'] / 2,
+            Math.min(count['o' - 'a'] / 2, count['n' - 'a']))
+        );
     }
 }
