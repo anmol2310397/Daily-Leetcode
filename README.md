@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0342-power-of-four) |
@@ -387,4 +389,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
