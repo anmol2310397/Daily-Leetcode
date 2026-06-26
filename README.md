@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3945-digit-frequency-score](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3945-digit-frequency-score](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
