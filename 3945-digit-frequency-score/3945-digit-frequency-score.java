@@ -1,15 +1,11 @@
 class Solution {
     public int digitFrequencyScore(int n) {
         HashMap<Integer,Integer> map=new HashMap<>();
-        int num=n;
+        int num=n,sum=0;
         while(num>0){
             int rem=num%10;
-            map.put(rem,map.getOrDefault(rem,0)+1);
+            sum+=rem;
             num/=10;
-        }
-        int sum=0;
-        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
-            sum+=entry.getKey()*entry.getValue();
         }
         return sum;
     }
