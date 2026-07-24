@@ -413,4 +413,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
