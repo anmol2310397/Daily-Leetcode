@@ -1,31 +1,16 @@
 class Solution {
+    int dp[][];
     public int uniquePaths(int m, int n) {
-        int i = 0;
-        int j = 0;
-
-        int[][] dp = new int[m][n];
-        for(int k =0;k < m;k++){
-            Arrays.fill(dp[k],0);
-        }
-        int res = memoization(m,n,i,j,dp);
-        return res;
-
+        dp=new int[m][n];
+        // Arrays.fill(dp,-1);
+        return rec(m-1,n-1);
     }
-
-    public int memoization(int m,int n,int i,int j,int[][] dp){
-        if(i == m-1 && j == n-1){
-            return 1;
-        }
-
-        if(i < 0 || j < 0 || i >= m || j >= n){
-            return 0;
-        }
-
-        if(dp[i][j] != 0){
-            return dp[i][j];
-        }
-
-        dp[i][j] = memoization(m,n,i+1,j,dp) + memoization(m,n,i,j+1,dp);
-        return dp[i][j];
+    public int rec(int m,int n){
+        if(m==0 && n==0)return 1;
+        if(m<0||n<0)return 0;
+        if(dp[m][n]!=0)return dp[m][n];
+        int left=rec(m,n-1);
+        int up=rec(m-1,n);
+        return dp[m][n]=left+up;
     }
 }
