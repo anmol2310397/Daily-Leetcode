@@ -1,23 +1,32 @@
 class Solution {
+    int[] dp;
+
     public int coinChange(int[] coins, int amount) {
+        dp = new int[amount + 1];
+        Arrays.fill(dp, -2); // -2 means not computed
 
-        int[] dp = new int[amount + 1];
+        int ans = rec(amount, coins);
+        return ans == Integer.MAX_VALUE ? -1 : ans;
+    }
 
-        Arrays.fill(dp, amount + 1);
+    public int rec(int n, int[] coins) {
+        if (n == 0) return 0;
 
-        dp[0] = 0;
+        if (dp[n] != -2)
+            return dp[n];
 
-        for(int i = 1; i <= amount; i++) {
+        int res = Integer.MAX_VALUE;
 
-            for(int coin : coins) {
+        for (int c : coins) {
+            if (c <= n) {
+                int sub = rec(n - c, coins);
 
-                if(i >= coin) {
-                    dp[i] = Math.min(dp[i],
-                                     dp[i - coin] + 1);
+                if (sub != Integer.MAX_VALUE) {
+                    res = Math.min(res, sub + 1);
                 }
             }
         }
 
-        return dp[amount] > amount ? -1 : dp[amount];
+        return dp[n] = res;
     }
 }
