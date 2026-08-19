@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0031-next-permutation) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
