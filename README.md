@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0197-rising-temperature) |
 | [1148-article-views-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1683-invalid-tweets) |
