@@ -9,35 +9,36 @@
  * }
  */
 class Solution {
-    ListNode head,tail;
-    public ListNode reverseKGroup(ListNode givenHead, int k){
-        Stack<ListNode> stk = new Stack<>();
-        ListNode node = givenHead;
-        head = tail = null;
-        while(node != null){
-            stk.push(node);
-            node = node.next;
-            if(stk.size() == k){
-                insert(stk);
-                tail.next = node;
+    public ListNode reverseKGroup(ListNode head, int k) {
+        if (head == null || k <= 1) return head;
+        ListNode curr=new ListNode(-1);
+        ListNode dummy=curr;
+        int i=0;
+        Stack<ListNode> st=new Stack();
+        while(head!=null){
+            if(i%k==0){
+                while(!st.isEmpty()){
+                dummy.next=st.pop();
+                dummy=dummy.next;
+                }
+            }
+            st.push(head);
+            head=head.next;
+            i++;
+        }
+        if(st.size()%k!=0){
+        for(ListNode d:st){
+            dummy.next=d;
+            dummy=dummy.next;
+        }
+        }else{
+            while(!st.isEmpty()){
+                dummy.next=st.pop();
+                dummy=dummy.next;
             }
         }
-       
-        return head;
+        dummy.next=null;
+        return curr.next;
         
     }
-    private void insert(Stack<ListNode> stk){
-        while(!stk.isEmpty()){
-            ListNode node = stk.pop();
-            node.next = null;
-            if(head == null){
-                tail = head = node;
-            }
-            else{
-                tail.next = node;
-                tail = node;
-            }
-        }
-    }
-
 }
