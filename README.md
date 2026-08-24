@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -301,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -403,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -456,4 +461,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
