@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3921-score-validator](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3945-digit-frequency-score](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
