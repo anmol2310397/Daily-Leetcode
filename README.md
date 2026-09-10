@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -480,4 +483,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
