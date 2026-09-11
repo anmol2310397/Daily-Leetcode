@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0455-assign-cookies) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Linked List
 |  |
 | ------- |
@@ -487,4 +491,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
