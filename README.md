@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0822-unique-morse-code-words](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0909-stone-game](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0909-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1046-last-stone-weight](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1046-last-stone-weight) |
 | [1241-decompress-run-length-encoded-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
