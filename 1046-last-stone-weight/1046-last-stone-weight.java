@@ -1,27 +1,21 @@
-import java.util.PriorityQueue;
-import java.util.Collections;
-
 class Solution {
     public int lastStoneWeight(int[] stones) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-        
-        // Add all stones to the priority queue
-        for (int stone : stones) {
-            pq.add(stone);
+      PriorityQueue<Integer> pq=new PriorityQueue<>(Collections.reverseOrder());
+      for(int i:stones){
+        pq.add(i);
+      }
+      if(pq.size()==1)return pq.poll();
+     
+      while(pq.size()>1){
+        int a=pq.poll();
+        int b=pq.poll();
+        if(a==b){
+            //nothing
         }
-        
-        // Process the stones until there's one or no stone left
-        while (pq.size() > 1) {
-            int y = pq.poll(); // heaviest stone
-            int x = pq.poll(); // second heaviest stone
-            
-            // If the stones are not the same weight, add the difference back to the queue
-            if (x != y) {
-                pq.add(y - x);
-            }
-        }
-        
-        // If there's one stone left, return its weight; otherwise return 0
-        return pq.isEmpty() ? 0 : pq.poll();
+        else
+        pq.add(a-b);
+      }
+      if(pq.size()==1)return pq.poll();
+      else return 0;
     }
 }
