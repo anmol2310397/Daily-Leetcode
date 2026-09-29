@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0322-coin-change) |
