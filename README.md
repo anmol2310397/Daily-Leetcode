@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -504,4 +506,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
