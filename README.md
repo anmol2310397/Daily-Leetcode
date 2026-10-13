@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1046-last-stone-weight) |
 | [1241-decompress-run-length-encoded-list](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1402-reducing-dishes](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1402-reducing-dishes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0909-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1402-reducing-dishes](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1402-reducing-dishes) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anmol2310397/Daily-Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0455-assign-cookies) |
+| [1402-reducing-dishes](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1402-reducing-dishes) |
 | [1903-largest-odd-number-in-string](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -323,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anmol2310397/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1402-reducing-dishes](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1402-reducing-dishes) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
