@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1899-count-items-matching-a-rule](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/anmol2310397/Daily-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2502-sort-the-people](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2502-sort-the-people) |
 | [2833-furthest-point-from-origin](https://github.com/anmol2310397/Daily-Leetcode/tree/master/2833-furthest-point-from-origin) |
